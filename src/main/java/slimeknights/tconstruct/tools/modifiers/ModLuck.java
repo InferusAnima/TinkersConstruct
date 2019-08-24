@@ -22,7 +22,7 @@ import slimeknights.tconstruct.library.utils.ToolBuilder;
 public class ModLuck extends ModifierTrait {
 
   protected static final int baseCount = 60;
-  protected static final int maxLevel = 3;
+  protected static final int maxLevel = 50;
 
   // we have a bit of redundancy going on here with the luckAspect and the trait class
   private final LuckAspect aspect;
